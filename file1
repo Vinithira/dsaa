@@ -1,1 +1,16 @@
-printf("hello");
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+char a[30];
+int i;
+cout<<"enter the string";
+cin>>word;
+for(i=0;i<str.len(word);i++)
+{
+if((word[i]=='a')||(word[i]=='e')||(word[i]=='i')||(word[i]=='o')||(word[i]=='u'))
+{
+cout<<word[i];
+}
+}
+}
